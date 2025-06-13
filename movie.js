@@ -27,7 +27,7 @@
         }
       } catch (error) {
         container.innerHTML = '<p>Error fetching movie data.</p>';
-        console.error(error);
+        console.error(error,"Loution Error");
       }
     }
  
